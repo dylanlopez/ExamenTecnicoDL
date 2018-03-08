@@ -1,0 +1,15 @@
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte02\bin\Debug\netcoreapp2.0\AppParte02.deps.json
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte02\bin\Debug\netcoreapp2.0\AppParte02.runtimeconfig.json
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte02\bin\Debug\netcoreapp2.0\AppParte02.runtimeconfig.dev.json
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte02\bin\Debug\netcoreapp2.0\AppParte02.dll
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte02\bin\Debug\netcoreapp2.0\AppParte02.pdb
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte02\bin\Debug\netcoreapp2.0\Data_Layer.dll
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte02\bin\Debug\netcoreapp2.0\Domain_Layer.dll
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte02\bin\Debug\netcoreapp2.0\Domain_Layer.pdb
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte02\bin\Debug\netcoreapp2.0\Data_Layer.pdb
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte02\obj\Debug\netcoreapp2.0\AppParte02.csprojResolveAssemblyReference.cache
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte02\obj\Debug\netcoreapp2.0\AppParte02.csproj.CoreCompileInputs.cache
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte02\obj\Debug\netcoreapp2.0\AppParte02.AssemblyInfoInputs.cache
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte02\obj\Debug\netcoreapp2.0\AppParte02.AssemblyInfo.cs
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte02\obj\Debug\netcoreapp2.0\AppParte02.dll
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte02\obj\Debug\netcoreapp2.0\AppParte02.pdb
