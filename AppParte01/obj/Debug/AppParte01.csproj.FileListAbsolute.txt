@@ -1,0 +1,7 @@
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte01\bin\Debug\AppParte01.exe.config
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte01\bin\Debug\AppParte01.exe
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte01\bin\Debug\AppParte01.pdb
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte01\obj\Debug\AppParte01.csprojResolveAssemblyReference.cache
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte01\obj\Debug\AppParte01.csproj.CoreCompileInputs.cache
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte01\obj\Debug\AppParte01.exe
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\AppParte01\obj\Debug\AppParte01.pdb
