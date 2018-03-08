@@ -1,0 +1,11 @@
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\Domain_Layer\bin\Debug\netstandard2.0\Domain_Layer.deps.json
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\Domain_Layer\bin\Debug\netstandard2.0\Domain_Layer.dll
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\Domain_Layer\bin\Debug\netstandard2.0\Domain_Layer.pdb
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\Domain_Layer\bin\Debug\netstandard2.0\Data_Layer.dll
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\Domain_Layer\bin\Debug\netstandard2.0\Data_Layer.pdb
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\Domain_Layer\obj\Debug\netstandard2.0\Domain_Layer.csprojResolveAssemblyReference.cache
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\Domain_Layer\obj\Debug\netstandard2.0\Domain_Layer.csproj.CoreCompileInputs.cache
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\Domain_Layer\obj\Debug\netstandard2.0\Domain_Layer.AssemblyInfoInputs.cache
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\Domain_Layer\obj\Debug\netstandard2.0\Domain_Layer.AssemblyInfo.cs
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\Domain_Layer\obj\Debug\netstandard2.0\Domain_Layer.dll
+D:\CHAMBA\CHAMBA\METRICA ANDINA\solucion\SlnExamenTecnicoDylan\Domain_Layer\obj\Debug\netstandard2.0\Domain_Layer.pdb
